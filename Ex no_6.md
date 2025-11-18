@@ -5,7 +5,7 @@ To write a C Program to print the string "KEYBOARD" n number of times.
 
 ## Algorithm
 1. Start
-2. 2. Declare an integer variable n
+2. Declare an integer variable n
 3. Read the value of n from the user
 4. Repeat a loop from 1 to n
 5. Print the string "KEYBOARD" inside the loop
